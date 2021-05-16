@@ -1,0 +1,16 @@
+C:\git\Estruturadoprograma\bin\Debug\net5.0\Estruturadoprograma.exe
+C:\git\Estruturadoprograma\bin\Debug\net5.0\Estruturadoprograma.deps.json
+C:\git\Estruturadoprograma\bin\Debug\net5.0\Estruturadoprograma.runtimeconfig.json
+C:\git\Estruturadoprograma\bin\Debug\net5.0\Estruturadoprograma.runtimeconfig.dev.json
+C:\git\Estruturadoprograma\bin\Debug\net5.0\Estruturadoprograma.dll
+C:\git\Estruturadoprograma\bin\Debug\net5.0\ref\Estruturadoprograma.dll
+C:\git\Estruturadoprograma\bin\Debug\net5.0\Estruturadoprograma.pdb
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.csprojAssemblyReference.cache
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.AssemblyInfoInputs.cache
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.AssemblyInfo.cs
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.csproj.CoreCompileInputs.cache
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.dll
+C:\git\Estruturadoprograma\obj\Debug\net5.0\ref\Estruturadoprograma.dll
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.pdb
+C:\git\Estruturadoprograma\obj\Debug\net5.0\Estruturadoprograma.genruntimeconfig.cache
